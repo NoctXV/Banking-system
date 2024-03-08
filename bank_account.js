@@ -29,3 +29,5 @@ function kurangiSaldo(saldo, angka1, angka2) {
 alert("Saldo awal : " + saldo +  "\nSaldo ditambahkan : " + angka1 + "\nSaldo setelah ditambah : " + tambahSaldo(saldo, angka1) + 
 "\nSaldo ditarik : " + angka2 + "\nSaldo setelah ditarik : " + 
 kurangiSaldo(saldo, angka1, angka2));
+
+//mencoba git push
